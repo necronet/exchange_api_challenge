@@ -1,0 +1,2 @@
+module AlertsPreviewHelper
+end
